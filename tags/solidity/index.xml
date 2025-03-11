@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solidity on Home</title>
+    <link>https://doan-hai.github.io/tags/solidity/</link>
+    <description>Recent content in solidity on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://doan-hai.github.io/tags/solidity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimism standard bridge contract walkthrough</title>
+      <link>https://doan-hai.github.io/java/init/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/init/</guid>
+      <description>Optimism is an Optimistic Rollup. Optimistic rollups can process transactions for a much lower price than Ethereum Mainnet (also known as layer 1 or L1) because transactions are only processed by a few nodes, instead of every node on the network. At the same time, the data is all written to L1 so everything can be proved and reconstructed with all the integrity and availability guarantees of Mainnet.
+To use L1 assets on Optimism (or any other L2), the assets need to be bridged.</description>
+    </item>
+    
+  </channel>
+</rss>

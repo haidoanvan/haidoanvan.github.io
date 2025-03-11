@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javae on Home</title>
+    <link>https://doan-hai.github.io/java/</link>
+    <description>Recent content in Javae on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 23:48:05 +0700</lastBuildDate><atom:link href="https://doan-hai.github.io/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cẩn thận với query in trong Spring JPA</title>
+      <link>https://doan-hai.github.io/java/careful-with-operator-in-jpa/</link>
+      <pubDate>Thu, 23 Mar 2023 23:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/careful-with-operator-in-jpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phân tích Heap Dump</title>
+      <link>https://doan-hai.github.io/java/analyzing-heap-dump/</link>
+      <pubDate>Thu, 23 Mar 2023 23:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/analyzing-heap-dump/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circuit Breaker Pattern</title>
+      <link>https://doan-hai.github.io/java/circuit-breaker-pattern/</link>
+      <pubDate>Thu, 23 Mar 2023 22:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/circuit-breaker-pattern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resumable updoad với tus.io</title>
+      <link>https://doan-hai.github.io/java/resumable-upload-with-tusio/</link>
+      <pubDate>Thu, 23 Mar 2023 22:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/resumable-upload-with-tusio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tùy chỉnh cơ chế đọc và ghi cache trong spring boot</title>
+      <link>https://doan-hai.github.io/java/custom-read-write-cache-in-springboot/</link>
+      <pubDate>Thu, 23 Mar 2023 22:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/custom-read-write-cache-in-springboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RateLimit</title>
+      <link>https://doan-hai.github.io/java/rate-limit/</link>
+      <pubDate>Thu, 23 Mar 2023 21:48:05 +0700</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/rate-limit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimism standard bridge contract walkthrough</title>
+      <link>https://doan-hai.github.io/java/init/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://doan-hai.github.io/java/init/</guid>
+      <description>Optimism is an Optimistic Rollup. Optimistic rollups can process transactions for a much lower price than Ethereum Mainnet (also known as layer 1 or L1) because transactions are only processed by a few nodes, instead of every node on the network. At the same time, the data is all written to L1 so everything can be proved and reconstructed with all the integrity and availability guarantees of Mainnet.
+To use L1 assets on Optimism (or any other L2), the assets need to be bridged.</description>
+    </item>
+    
+  </channel>
+</rss>
