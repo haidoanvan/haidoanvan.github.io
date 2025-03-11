@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home</title>
-    <link>https://doan-hai.github.io/</link>
-    <description>Recent content on Home</description>
+    <title>Design-patterns on Home</title>
+    <link>https://doan-hai.github.io/design-pattern/</link>
+    <description>Recent content in Design-patterns on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2023 23:48:05 +0700</lastBuildDate><atom:link href="https://doan-hai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 23:48:05 +0700</lastBuildDate><atom:link href="https://doan-hai.github.io/design-pattern/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luyện tập Design Pattern: Hệ Thống Báo Cáo</title>
       <link>https://doan-hai.github.io/design-pattern/design-pattern-practice-report-system/</link>
